@@ -4,9 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## npm libraries used:
-material ui 
-react-router-dom
+## npm packages used:
+  [material ui](https://mui.com/material-ui/getting-started/installation/) && [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 
 ## Available Scripts
 
