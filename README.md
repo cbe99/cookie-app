@@ -1,6 +1,12 @@
+# Adding custom cookie banner to your react application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## npm libraries used:
+material ui 
+react-router-dom
 
 ## Available Scripts
 
